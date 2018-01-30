@@ -1,0 +1,9 @@
+**/*.py
+.idea/
+**/*~
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/*
